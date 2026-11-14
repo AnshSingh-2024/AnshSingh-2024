@@ -107,7 +107,7 @@ items = [("REGIONALIST", "ICPC Asia West 2026", "Rank 269 · Asia West Amritapur
          ("WINNER", "Idearise", "M.S. Ramaiah Inst. of Technology", SAFF, "gold", "cup"),
          ("CORE MEMBER", "CodeRIT, MSRIT", "the college's competitive coding club", "#C7A6FF", "bronze", "shield:{ }"),
          ("CONTRIBUTOR", "GSSoC 2026", "GirlScript Summer of Code", MINT, "bronze", "shield:PR"),
-         ("ML INTERN", "IIIT Allahabad", "May 2026 – now · FastAPI, RAG, XAI", CYAN, "bronze", "shield:ML"),
+         ("ML INTERN", "IIIT Allahabad", "May 2026 – July 2026 · FastAPI, RAG, XAI", CYAN, "bronze", "shield:ML"),
          ("NATIONAL FINALIST", "Trading Heist", "IIT Roorkee", MAG, "silver", "medal"),
          ("3RD RUNNER-UP", "Case Crunch", "NIT Rourkela", SAFF, "silver", "medal"),
          ("RANK 27", "INVICTA", "SSCBS, New Delhi · 1500+ teams", CYAN, "silver", "star"),
