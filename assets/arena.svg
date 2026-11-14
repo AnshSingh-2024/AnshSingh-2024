@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Competitive programming: LeetCode Knight max 2033, ICPC Asia West Regionalist 2026 rank 269 (Asia West Amritapuri Regional), Codeforces Specialist, 1300+ problems">
+<title>Competitive programming: LeetCode Knight max 2033, ICPC Asia West Regionalist 2026 rank 269 (Asia West Amritapuri Regional), Codeforces Specialist, 1300+ problems</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif;}
+
+.rise{animation:rise 2.4s cubic-bezier(.2,.8,.2,1) both;transform-box:fill-box;transform-origin:bottom}
+@keyframes rise{from{transform:scaleY(0)}}
+.mk{animation:fi .5s ease 2.2s both} @keyframes fi{from{opacity:0}}
+.spin{transform-box:fill-box;transform-origin:center;animation:sp 18s linear infinite} @keyframes sp{to{transform:rotate(360deg)}}
+.spin2{animation-direction:reverse;animation-duration:26s}
+.pulse{animation:pu 2s ease-in-out infinite} @keyframes pu{50%{opacity:.35}}
+.bfs{animation:bfs 4s infinite} @keyframes bfs{0%{fill:#0B1016;stroke-opacity:.4}12%,60%{fill:currentColor;stroke-opacity:1}100%{fill:#0B1016;stroke-opacity:.4}}
+.be{stroke-opacity:.15;animation:be 4s infinite} @keyframes be{12%,60%{stroke-opacity:.8}0%,100%{stroke-opacity:.15}}
+
+</style>
+<defs></defs>
+<rect x="1" y="1" width="998" height="338" rx="16" fill="#10172A" stroke="#22304F"/>
+<rect x="18" y="18" width="312" height="304" rx="12" fill="#0A0E1A" stroke="#B4F34A" stroke-opacity=".35"/><text x="36" y="44" font-size="11" fill="#B4F34A" font-weight="800" text-anchor="start" letter-spacing="2">LEETCODE · CONTEST</text>
+<rect x="58" y="191" width="26" height="99" fill="#4A5573" fill-opacity=".12" stroke="#4A5573" stroke-opacity=".4"/>
+<text x="94" y="244.5" font-size="10" fill="#4A5573" font-weight="700" text-anchor="start" >rated</text>
+<rect x="58" y="125" width="26" height="66" fill="#B4F34A" fill-opacity=".12" stroke="#B4F34A" stroke-opacity=".4"/>
+<text x="94" y="162.0" font-size="10" fill="#B4F34A" font-weight="700" text-anchor="start" >KNIGHT</text>
+<rect x="58" y="70" width="26" height="55" fill="#FFB547" fill-opacity=".12" stroke="#FFB547" stroke-opacity=".4"/>
+<text x="94" y="101.5" font-size="10" fill="#FFB547" font-weight="700" text-anchor="start" >GUARDIAN</text>
+<text x="52" y="294.0" font-size="9" fill="#8A93A8" font-weight="500" text-anchor="end" >1400</text>
+<text x="52" y="195.0" font-size="9" fill="#8A93A8" font-weight="500" text-anchor="end" >1850</text>
+<text x="52" y="129.0" font-size="9" fill="#8A93A8" font-weight="500" text-anchor="end" >2150</text>
+<text x="52" y="74.0" font-size="9" fill="#8A93A8" font-weight="500" text-anchor="end" >2400</text>
+<rect class="rise" x="64" y="151" width="14" height="139" rx="3" fill="#B4F34A"/>
+<g class="mk"><line x1="56" y1="151" x2="310" y2="151" stroke="#B4F34A" stroke-dasharray="3 3"/><text x="310" y="142.74" font-size="20" fill="#ECEFF6" font-weight="800" text-anchor="end" >max 2033</text></g>
+<text x="310" y="172.74" font-size="11" fill="#B4F34A" font-weight="600" text-anchor="end" >top 2.19% worldwide</text>
+<text x="310" y="300" font-size="10" fill="#8A93A8" font-weight="500" text-anchor="end" >Ansh_Singh5245</text>
+<rect x="346" y="18" width="312" height="304" rx="12" fill="#0A0E1A" stroke="#FF6B5B" stroke-opacity=".35"/><text x="364" y="44" font-size="11" fill="#FF6B5B" font-weight="800" text-anchor="start" letter-spacing="2">ICPC · ASIA WEST</text>
+<g class="spin"><circle cx="502.0" cy="160" r="92" fill="none" stroke="#FF6B5B" stroke-opacity=".5" stroke-dasharray="2 6"/></g>
+<g class="spin spin2"><circle cx="502.0" cy="160" r="82" fill="none" stroke="#FFB547" stroke-opacity=".4" stroke-dasharray="18 10 4 10"/></g>
+<polygon points="502.0,90.0 562.6,125.0 562.6,195.0 502.0,230.0 441.4,195.0 441.4,125.0" fill="#FF6B5B" fill-opacity=".08" stroke="#FF6B5B" stroke-width="2"/>
+<polygon points="502.0,100.0 554.0,130.0 554.0,190.0 502.0,220.0 450.0,190.0 450.0,130.0" fill="none" stroke="#FF6B5B" stroke-opacity=".4"/>
+<text x="502.0" y="146" font-size="10.5" fill="#FF6B5B" font-weight="800" text-anchor="middle" letter-spacing="2">REGIONALIST</text>
+<text x="502.0" y="178" font-size="30" fill="#ECEFF6" font-weight="900" text-anchor="middle" class="sans" >2026</text>
+<text x="502.0" y="198" font-size="10" fill="#8A93A8" font-weight="600" text-anchor="middle" >Amritapuri</text>
+<text x="502.0" y="290" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >Rank 269 · Asia West Amritapuri Regional</text>
+<g class="pulse"><text x="502.0" y="306" font-size="10" fill="#8A93A8" font-weight="500" text-anchor="middle" >the olympics of college programming</text></g>
+<rect x="674" y="18" width="312" height="304" rx="12" fill="#0A0E1A" stroke="#6EA8FE" stroke-opacity=".35"/><text x="692" y="44" font-size="11" fill="#6EA8FE" font-weight="800" text-anchor="start" letter-spacing="2">CODEFORCES · +5 JUDGES</text>
+<line class="be" style="animation-delay:0.45s" x1="830" y1="92" x2="746" y2="136" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.45s" x1="830" y1="92" x2="830" y2="136" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.45s" x1="830" y1="92" x2="914" y2="136" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.90s" x1="746" y1="136" x2="729" y2="180" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.90s" x1="746" y1="136" x2="780" y2="180" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.90s" x1="830" y1="136" x2="830" y2="180" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.90s" x1="914" y1="136" x2="880" y2="180" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:0.90s" x1="914" y1="136" x2="931" y2="180" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="729" y1="180" x2="725" y2="224" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="780" y1="180" x2="767" y2="224" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="830" y1="180" x2="809" y2="224" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="830" y1="180" x2="851" y2="224" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="880" y1="180" x2="893" y2="224" stroke="#6EA8FE"/>
+<line class="be" style="animation-delay:1.35s" x1="931" y1="180" x2="935" y2="224" stroke="#6EA8FE"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.00s" cx="830" cy="92" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.45s" cx="746" cy="136" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.45s" cx="830" cy="136" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.45s" cx="914" cy="136" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.90s" cx="729" cy="180" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.90s" cx="780" cy="180" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.90s" cx="830" cy="180" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.90s" cx="880" cy="180" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:0.90s" cx="931" cy="180" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="725" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="767" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="809" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="851" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="893" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<circle class="bfs" style="color:#6EA8FE;animation-delay:1.35s" cx="935" cy="224" r="8" fill="#10172A" stroke="#6EA8FE" stroke-width="1.5"/>
+<text x="968" y="44" font-size="10" fill="#8A93A8" font-weight="600" text-anchor="end" >BFS(1300+)</text>
+<text x="692" y="262" font-size="20" fill="#6EA8FE" font-weight="900" text-anchor="start" letter-spacing="1">SPECIALIST</text>
+<text x="692" y="282" font-size="11" fill="#8A93A8" font-weight="500" text-anchor="start" >on Codeforces · Learn2SolveP</text>
+<text x="692" y="302" font-size="10" fill="#ECEFF6" font-weight="500" text-anchor="start" >1300+ solved · LC · CF · CC · AZ · HR · TUF</text>
+</svg>
