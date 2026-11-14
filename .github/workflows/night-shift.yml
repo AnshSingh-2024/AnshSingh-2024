@@ -1,0 +1,35 @@
+name: Night Shift
+
+# Redraws the contribution heatmap from real GitHub data.
+on:
+  schedule:
+    - cron: "0 19 * * 6"   # 00:30 IST every Sunday
+  workflow_dispatch:        # "Run workflow" button for the first sync
+  push:
+    branches: [main]
+    paths: ["_generator/**", ".github/workflows/night-shift.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render activity SVGs
+        working-directory: _generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python activity.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "night-shift-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib.svg
+          git diff --cached --quiet || git commit -m "night shift: redraw activity $(date -u +%F)"
+          git push
