@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="360" viewBox="0 0 490 360" role="img" aria-label="Emergent Behaviors in LLMs">
+<title>Emergent Behaviors in LLMs</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif;}
+
+.draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 5s ease infinite}
+@keyframes draw{0%{stroke-dashoffset:1000;opacity:1}45%,90%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+.pulse{animation:pulse 1.6s ease-in-out infinite} @keyframes pulse{50%{opacity:.25}}
+.hov{transition:all .3s}
+
+</style>
+<defs></defs>
+<rect x="1" y="1" width="488" height="358" rx="16" fill="#10172A" stroke="#22304F"/>
+<path d="M10,22 V10 H22 M468,10 H480 V22 M480,338 V350 H468 M22,350 H10 V338" fill="none" stroke="#FFB547" stroke-width="1.5" stroke-opacity="0.6"/>
+<rect x="24" y="24" width="8" height="8" fill="#FFB547"/>
+<text x="40" y="32" font-size="11" fill="#FFB547" font-weight="700" text-anchor="start" letter-spacing="2">PROJECT 04</text>
+<text x="466" y="32" font-size="10" fill="#4A5573" font-weight="600" text-anchor="end" letter-spacing="1.5">RESEARCH REPORT</text>
+<text x="24" y="72" font-size="25" fill="#ECEFF6" font-weight="800" text-anchor="start" class="sans" >Emergent Behaviors in LLMs</text>
+<text x="24" y="96" font-size="12" fill="#8A93A8" font-weight="400" text-anchor="start" >Report on abilities that appear abruptly with</text>
+<text x="24" y="113" font-size="12" fill="#8A93A8" font-weight="400" text-anchor="start" >scale: CoT, forecasting, evaluation, AI safety.</text>
+<rect x="24" y="134" width="442" height="112" rx="10" fill="#0A0E1A" stroke="#22304F"/>
+<line x1="50" y1="232" x2="440" y2="232" stroke="#4A5573"/><line x1="50" y1="232" x2="50" y2="146" stroke="#4A5573"/><text x="440" y="244" font-size="9" fill="#8A93A8" font-weight="600" text-anchor="end" >model scale →</text><text x="56" y="152" font-size="9" fill="#8A93A8" font-weight="600" text-anchor="start" >capability</text><path d="M52.0,228.7 L56.9,227.4 L61.8,229.4 L66.7,226.9 L71.6,227.8 L76.5,228.8 L81.4,227.0 L86.3,228.0 L91.2,226.6 L96.1,228.5 L101.0,228.8 L105.9,228.2 L110.8,229.1 L115.7,227.4 L120.6,228.6 L125.5,228.3 L130.4,228.2 L135.3,227.9 L140.2,229.0 L145.1,229.3 L150.0,227.9 L154.9,228.5 L159.8,226.7 L164.7,228.6 L169.6,228.4 L174.5,229.5 L179.4,228.9 L184.3,227.3 L189.2,227.6 L194.1,228.4 L199.0,226.5 L203.9,227.8 L208.8,226.9 L213.7,226.7 L218.6,226.4 L223.5,228.4 L228.4,226.4 L233.3,226.5 L238.2,226.7 L243.1,227.8 L248.0,225.0 L252.9,225.5 L257.8,224.9 L262.7,224.8 L267.6,223.2 L272.5,221.4 L277.4,217.2 L282.3,214.6 L287.2,210.7 L292.1,207.8 L297.0,202.9 L301.9,194.8 L306.8,189.0 L311.7,183.3 L316.6,177.7 L321.5,173.3 L326.4,169.2 L331.3,164.5 L336.2,160.6 L341.1,159.4 L346.0,157.4 L350.9,156.5 L355.8,156.6 L360.7,154.9 L365.6,153.8 L370.5,153.6 L375.4,153.5 L380.3,151.4 L385.2,153.7 L390.1,153.2 L395.0,153.4 L399.9,153.1 L404.8,151.8 L409.7,151.8 L414.6,150.9 L419.5,152.5 L424.4,150.7 L429.3,150.7 L434.2,151.1 L439.1,151.0" fill="none" stroke="#FFB547" stroke-width="2.4" class="draw" pathLength="1000"/><line x1="306" y1="146" x2="306" y2="232" stroke="#FF6B5B" stroke-dasharray="3 4"/><text x="300" y="166" font-size="10" fill="#FF6B5B" font-weight="700" text-anchor="end" >emergence</text><g class="pulse"><text x="380" y="190" font-size="10" fill="#B4F34A" font-weight="700" text-anchor="start" >CoT ✦</text></g>
+<rect x="24" y="260" width="52" height="23" rx="11.5" fill="#FFB547" fill-opacity="0.08" stroke="#FFB547" stroke-opacity="0.45"/><text x="50.05" y="274" font-size="11" fill="#FFB547" font-weight="500" text-anchor="middle" >LaTeX</text><rect x="84.1" y="260" width="59" height="23" rx="11.5" fill="#FFB547" fill-opacity="0.08" stroke="#FFB547" stroke-opacity="0.45"/><text x="113.56" y="274" font-size="11" fill="#FFB547" font-weight="500" text-anchor="middle" >Survey</text><rect x="151.01999999999998" y="260" width="100" height="23" rx="11.5" fill="#FFB547" fill-opacity="0.08" stroke="#FFB547" stroke-opacity="0.45"/><text x="200.94" y="274" font-size="11" fill="#FFB547" font-weight="500" text-anchor="middle" >Scaling laws</text><rect x="258.86" y="260" width="127" height="23" rx="11.5" fill="#FFB547" fill-opacity="0.08" stroke="#FFB547" stroke-opacity="0.45"/><text x="322.42" y="274" font-size="11" fill="#FFB547" font-weight="500" text-anchor="middle" >Chain-of-thought</text><rect x="24" y="291" width="79" height="23" rx="11.5" fill="#FFB547" fill-opacity="0.08" stroke="#FFB547" stroke-opacity="0.45"/><text x="63.69" y="305" font-size="11" fill="#FFB547" font-weight="500" text-anchor="middle" >AI safety</text>
+<line x1="24" y1="322" x2="466" y2="322" stroke="#22304F"/>
+<text x="24" y="343" font-size="11.5" fill="#FFB547" font-weight="700" text-anchor="start" >technical report · typeset in LaTeX</text>
+<text x="466" y="343" font-size="11.5" fill="#8A93A8" font-weight="600" text-anchor="end" >view repo →</text>
+</svg>
