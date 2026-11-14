@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="06:00 AM — night shift complete. Open to SDE / ML internships.">
+<title>06:00 AM — night shift complete. Open to SDE / ML internships.</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif;}
+
+.dw{animation:dw 12s ease-in-out infinite both} @keyframes dw{0%,15%{opacity:0}55%,90%{opacity:1}100%{opacity:0}}
+.sun{animation:sun 12s ease-in-out infinite both} @keyframes sun{0%,15%{transform:translateY(90px)}60%,90%{transform:translateY(0)}100%{transform:translateY(90px)}}
+.d1{animation:dg 12s steps(1) infinite} @keyframes dg{0%{transform:translateY(0)}50%,100%{transform:translateY(-60px)}}
+.cur{animation:c 1s steps(1) infinite} @keyframes c{50%{opacity:0}}
+
+</style>
+<defs><linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B2348"/><stop offset=".6" stop-color="#7A4A6B"/><stop offset="1" stop-color="#FFB547"/></linearGradient>
+<linearGradient id="nite" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070A14"/><stop offset="1" stop-color="#121A36"/></linearGradient>
+<radialGradient id="sun"><stop offset="0" stop-color="#FFE3A3"/><stop offset=".45" stop-color="#FFB547"/><stop offset="1" stop-color="#FFB547" stop-opacity="0"/></radialGradient>
+<clipPath id="fc"><rect width="1000" height="270" rx="18"/></clipPath></defs>
+<g clip-path="url(#fc)">
+<rect width="1000" height="270" fill="url(#nite)"/>
+<rect class="dw" width="1000" height="270" fill="url(#dawn)"/>
+<g class="sun"><circle cx="820" cy="215" r="90" fill="url(#sun)"/><circle cx="820" cy="215" r="34" fill="#FFD27A"/></g>
+<path d="M0,226 Q180,196 360,222 T720,214 T1000,208 V270 H0 Z" fill="#0A0E1A"/>
+<path d="M0,238 Q220,222 440,240 T1000,230 V270 H0 Z" fill="#070A14"/>
+<text x="40" y="62" font-size="12" fill="#FFB547" font-weight="800" text-anchor="start" letter-spacing="3">06:00 AM — LOG OFF</text>
+<text x="40" y="104" font-size="32" fill="#ECEFF6" font-weight="800" text-anchor="start" class="sans" >Night shift complete.</text>
+<text x="40" y="136" font-size="17" fill="#ECEFF6" font-weight="600" text-anchor="start" class="sans" >Open to SDE / ML internships. Let&#x27;s build something.</text>
+<text x="40" y="170" font-size="13" fill="#B4F34A" font-weight="500" text-anchor="start" >$ git push origin sunrise</text>
+<rect class="cur" x="242" y="159" width="8" height="15" fill="#B4F34A"/>
+<rect x="560" y="50" width="40" height="60" rx="6" fill="#151C33" stroke="#22304F"/><clipPath id="f560"><rect x="560" y="50" width="40" height="60" rx="6"/></clipPath><g clip-path="url(#f560)"><text x="580" y="95" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >0</text></g><line x1="560" y1="80" x2="600" y2="80" stroke="#0A0E1A" stroke-width="2"/>
+<rect x="606" y="50" width="40" height="60" rx="6" fill="#151C33" stroke="#22304F"/><clipPath id="f606"><rect x="606" y="50" width="40" height="60" rx="6"/></clipPath><g clip-path="url(#f606)"><g class="d1"><text x="626" y="95" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >5</text><text x="626" y="155" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >6</text></g></g><line x1="606" y1="80" x2="646" y2="80" stroke="#0A0E1A" stroke-width="2"/>
+<circle cx="658" cy="70" r="3.5" fill="#FFB547"/><circle cx="658" cy="90" r="3.5" fill="#FFB547"/>
+<rect x="668" y="50" width="40" height="60" rx="6" fill="#151C33" stroke="#22304F"/><clipPath id="f668"><rect x="668" y="50" width="40" height="60" rx="6"/></clipPath><g clip-path="url(#f668)"><g class="d1"><text x="688" y="95" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >5</text><text x="688" y="155" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >0</text></g></g><line x1="668" y1="80" x2="708" y2="80" stroke="#0A0E1A" stroke-width="2"/>
+<rect x="714" y="50" width="40" height="60" rx="6" fill="#151C33" stroke="#22304F"/><clipPath id="f714"><rect x="714" y="50" width="40" height="60" rx="6"/></clipPath><g clip-path="url(#f714)"><g class="d1"><text x="734" y="95" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >9</text><text x="734" y="155" font-size="42" fill="#ECEFF6" font-weight="800" text-anchor="middle" >0</text></g></g><line x1="714" y1="80" x2="754" y2="80" stroke="#0A0E1A" stroke-width="2"/>
+<text x="764" y="76" font-size="13" fill="#FFB547" font-weight="800" text-anchor="start" >AM</text>
+</g>
+<rect x="1" y="1" width="998" height="268" rx="18" fill="none" stroke="#22304F"/>
+</svg>

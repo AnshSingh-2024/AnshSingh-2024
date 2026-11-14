@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Night fuel: one energy-drink can per late-night milestone — ICPC regional, Flipkart GRiD, Fidelity hackathon, NER hackathon, INVICTA, Trading Heist, GSSoC 2026, RupeeGuard deploy">
+<title>Night fuel: one energy-drink can per late-night milestone — ICPC regional, Flipkart GRiD, Fidelity hackathon, NER hackathon, INVICTA, Trading Heist, GSSoC 2026, RupeeGuard deploy</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif;}
+
+.cd{animation:cd 16s cubic-bezier(.3,1.5,.5,1) infinite both}
+@keyframes cd{0%{transform:translateY(-140px);opacity:0}5%,93%{transform:none;opacity:1}100%{opacity:0}}
+.glow{animation:glow 16s ease-in-out infinite both} @keyframes glow{0%,30%{opacity:0}40%,88%{opacity:.55}100%{opacity:0}}
+.bub{animation:bub 2.2s ease-in infinite} @keyframes bub{0%{transform:translateY(0);opacity:0}25%{opacity:.9}100%{transform:translateY(-40px);opacity:0}}
+.tick{animation:tick 1s steps(1) infinite} @keyframes tick{50%{opacity:.2}}
+
+</style>
+<defs><radialGradient id="gl0"><stop offset="0" stop-color="#FFB547" stop-opacity=".9"/><stop offset="1" stop-color="#FFB547" stop-opacity="0"/></radialGradient><radialGradient id="gl1"><stop offset="0" stop-color="#B4F34A" stop-opacity=".9"/><stop offset="1" stop-color="#B4F34A" stop-opacity="0"/></radialGradient><radialGradient id="gl2"><stop offset="0" stop-color="#6EA8FE" stop-opacity=".9"/><stop offset="1" stop-color="#6EA8FE" stop-opacity="0"/></radialGradient><radialGradient id="gl3"><stop offset="0" stop-color="#FF6B5B" stop-opacity=".9"/><stop offset="1" stop-color="#FF6B5B" stop-opacity="0"/></radialGradient><radialGradient id="gl4"><stop offset="0" stop-color="#FFB547" stop-opacity=".9"/><stop offset="1" stop-color="#FFB547" stop-opacity="0"/></radialGradient><radialGradient id="gl5"><stop offset="0" stop-color="#B4F34A" stop-opacity=".9"/><stop offset="1" stop-color="#B4F34A" stop-opacity="0"/></radialGradient><radialGradient id="gl6"><stop offset="0" stop-color="#6EA8FE" stop-opacity=".9"/><stop offset="1" stop-color="#6EA8FE" stop-opacity="0"/></radialGradient><radialGradient id="gl7"><stop offset="0" stop-color="#FF6B5B" stop-opacity=".9"/><stop offset="1" stop-color="#FF6B5B" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="998" height="328" rx="16" fill="#10172A" stroke="#22304F"/>
+<text x="28" y="42" font-size="16" fill="#ECEFF6" font-weight="800" text-anchor="start" class="sans" >night fuel</text>
+<text x="28" y="62" font-size="11.5" fill="#8A93A8" font-weight="500" text-anchor="start" >one can for every deadline that ran past midnight</text>
+<g class="tick"><text x="972" y="42" font-size="13" fill="#FFB547" font-weight="800" text-anchor="end" >02:37 AM</text></g>
+<ellipse class="glow" style="animation-delay:0.30s" cx="87.0" cy="186" rx="56" ry="70" fill="url(#gl0)"/>
+<g class="cd" style="animation-delay:0.30s"><rect x="61.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#FFB547" stroke-opacity=".9" stroke-width="1.8"/><rect x="64.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="64.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M91.1,162.7 L77.8,191.4 L87.0,191.4 L81.9,216.2 L97.2,183.5 L88.0,183.5 Z" fill="#FFB547"/><rect x="66.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="87.0" y="222.5" font-size="9.8" fill="#FFB547" font-weight="800" text-anchor="middle" letter-spacing="0.9">ICPC</text></g>
+<circle class="bub" style="animation-delay:0.30s" cx="79.5" cy="136" r="1.4" fill="#FFB547"/>
+<circle class="bub" style="animation-delay:1.00s" cx="87.5" cy="136" r="2.4" fill="#FFB547"/>
+<circle class="bub" style="animation-delay:1.70s" cx="95.5" cy="136" r="1.4" fill="#FFB547"/>
+<text x="87.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >ICPC Regional</text>
+<text x="87.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >Asia West &#x27;26</text>
+<ellipse class="glow" style="animation-delay:0.65s" cx="205.0" cy="186" rx="56" ry="70" fill="url(#gl1)"/>
+<g class="cd" style="animation-delay:0.65s"><rect x="179.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#B4F34A" stroke-opacity=".9" stroke-width="1.8"/><rect x="182.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="182.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M209.1,162.7 L195.8,191.4 L205.0,191.4 L199.9,216.2 L215.2,183.5 L206.0,183.5 Z" fill="#B4F34A"/><rect x="184.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="205.0" y="222.5" font-size="9.8" fill="#B4F34A" font-weight="800" text-anchor="middle" letter-spacing="0.9">GRiD</text></g>
+<circle class="bub" style="animation-delay:0.65s" cx="197.5" cy="136" r="1.4" fill="#B4F34A"/>
+<circle class="bub" style="animation-delay:1.35s" cx="205.5" cy="136" r="2.4" fill="#B4F34A"/>
+<circle class="bub" style="animation-delay:2.05s" cx="213.5" cy="136" r="1.4" fill="#B4F34A"/>
+<text x="205.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >Flipkart GRiD</text>
+<text x="205.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >semi-finals</text>
+<ellipse class="glow" style="animation-delay:1.00s" cx="323.0" cy="186" rx="56" ry="70" fill="url(#gl2)"/>
+<g class="cd" style="animation-delay:1.00s"><rect x="297.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#6EA8FE" stroke-opacity=".9" stroke-width="1.8"/><rect x="300.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="300.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M327.1,162.7 L313.8,191.4 L323.0,191.4 L317.9,216.2 L333.2,183.5 L324.0,183.5 Z" fill="#6EA8FE"/><rect x="302.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="323.0" y="222.5" font-size="9.8" fill="#6EA8FE" font-weight="800" text-anchor="middle" letter-spacing="0.9">FIDE</text></g>
+<circle class="bub" style="animation-delay:1.00s" cx="315.5" cy="136" r="1.4" fill="#6EA8FE"/>
+<circle class="bub" style="animation-delay:1.70s" cx="323.5" cy="136" r="2.4" fill="#6EA8FE"/>
+<circle class="bub" style="animation-delay:2.40s" cx="331.5" cy="136" r="1.4" fill="#6EA8FE"/>
+<text x="323.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >Fidelity Hack</text>
+<text x="323.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >top 12 / 1700+</text>
+<ellipse class="glow" style="animation-delay:1.35s" cx="441.0" cy="186" rx="56" ry="70" fill="url(#gl3)"/>
+<g class="cd" style="animation-delay:1.35s"><rect x="415.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#FF6B5B" stroke-opacity=".9" stroke-width="1.8"/><rect x="418.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="418.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M445.1,162.7 L431.8,191.4 L441.0,191.4 L435.9,216.2 L451.2,183.5 L442.0,183.5 Z" fill="#FF6B5B"/><rect x="420.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="441.0" y="222.5" font-size="9.8" fill="#FF6B5B" font-weight="800" text-anchor="middle" letter-spacing="0.9">NER</text></g>
+<circle class="bub" style="animation-delay:1.35s" cx="433.5" cy="136" r="1.4" fill="#FF6B5B"/>
+<circle class="bub" style="animation-delay:2.05s" cx="441.5" cy="136" r="2.4" fill="#FF6B5B"/>
+<circle class="bub" style="animation-delay:2.75s" cx="449.5" cy="136" r="1.4" fill="#FF6B5B"/>
+<text x="441.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >NER Hackathon</text>
+<text x="441.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >top 60 / 2000+</text>
+<ellipse class="glow" style="animation-delay:1.70s" cx="559.0" cy="186" rx="56" ry="70" fill="url(#gl4)"/>
+<g class="cd" style="animation-delay:1.70s"><rect x="533.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#FFB547" stroke-opacity=".9" stroke-width="1.8"/><rect x="536.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="536.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M563.1,162.7 L549.8,191.4 L559.0,191.4 L553.9,216.2 L569.2,183.5 L560.0,183.5 Z" fill="#FFB547"/><rect x="538.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="559.0" y="222.5" font-size="9.8" fill="#FFB547" font-weight="800" text-anchor="middle" letter-spacing="0.9">SSCBS</text></g>
+<circle class="bub" style="animation-delay:1.70s" cx="551.5" cy="136" r="1.4" fill="#FFB547"/>
+<circle class="bub" style="animation-delay:2.40s" cx="559.5" cy="136" r="2.4" fill="#FFB547"/>
+<circle class="bub" style="animation-delay:3.10s" cx="567.5" cy="136" r="1.4" fill="#FFB547"/>
+<text x="559.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >INVICTA</text>
+<text x="559.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >rank 27 / 1500+</text>
+<ellipse class="glow" style="animation-delay:2.05s" cx="677.0" cy="186" rx="56" ry="70" fill="url(#gl5)"/>
+<g class="cd" style="animation-delay:2.05s"><rect x="651.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#B4F34A" stroke-opacity=".9" stroke-width="1.8"/><rect x="654.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="654.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M681.1,162.7 L667.8,191.4 L677.0,191.4 L671.9,216.2 L687.2,183.5 L678.0,183.5 Z" fill="#B4F34A"/><rect x="656.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="677.0" y="222.5" font-size="9.8" fill="#B4F34A" font-weight="800" text-anchor="middle" letter-spacing="0.9">IITR</text></g>
+<circle class="bub" style="animation-delay:2.05s" cx="669.5" cy="136" r="1.4" fill="#B4F34A"/>
+<circle class="bub" style="animation-delay:2.75s" cx="677.5" cy="136" r="2.4" fill="#B4F34A"/>
+<circle class="bub" style="animation-delay:3.45s" cx="685.5" cy="136" r="1.4" fill="#B4F34A"/>
+<text x="677.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >Trading Heist</text>
+<text x="677.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >national final</text>
+<ellipse class="glow" style="animation-delay:2.40s" cx="795.0" cy="186" rx="56" ry="70" fill="url(#gl6)"/>
+<g class="cd" style="animation-delay:2.40s"><rect x="769.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#6EA8FE" stroke-opacity=".9" stroke-width="1.8"/><rect x="772.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="772.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M799.1,162.7 L785.8,191.4 L795.0,191.4 L789.9,216.2 L805.2,183.5 L796.0,183.5 Z" fill="#6EA8FE"/><rect x="774.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="795.0" y="222.5" font-size="9.8" fill="#6EA8FE" font-weight="800" text-anchor="middle" letter-spacing="0.9">GSSoC</text></g>
+<circle class="bub" style="animation-delay:2.40s" cx="787.5" cy="136" r="1.4" fill="#6EA8FE"/>
+<circle class="bub" style="animation-delay:3.10s" cx="795.5" cy="136" r="2.4" fill="#6EA8FE"/>
+<circle class="bub" style="animation-delay:3.80s" cx="803.5" cy="136" r="1.4" fill="#6EA8FE"/>
+<text x="795.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >GSSoC &#x27;26</text>
+<text x="795.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >open-source PRs</text>
+<ellipse class="glow" style="animation-delay:2.75s" cx="913.0" cy="186" rx="56" ry="70" fill="url(#gl7)"/>
+<g class="cd" style="animation-delay:2.75s"><rect x="887.5" y="141.5" width="51.0" height="90.0" rx="7.5" fill="#141A14" stroke="#FF6B5B" stroke-opacity=".9" stroke-width="1.8"/><rect x="890.5" y="138.5" width="45.0" height="7.5" rx="3.0" fill="#9AA3B5"/><rect x="890.5" y="228.5" width="45.0" height="6.0" rx="3.0" fill="#7A8296"/><path d="M917.1,162.7 L903.8,191.4 L913.0,191.4 L907.9,216.2 L923.2,183.5 L914.0,183.5 Z" fill="#FF6B5B"/><rect x="892.0" y="149.0" width="4.5" height="72.0" rx="1" fill="#fff" fill-opacity=".12"/><text x="913.0" y="222.5" font-size="9.8" fill="#FF6B5B" font-weight="800" text-anchor="middle" letter-spacing="0.9">v1.0</text></g>
+<circle class="bub" style="animation-delay:2.75s" cx="905.5" cy="136" r="1.4" fill="#FF6B5B"/>
+<circle class="bub" style="animation-delay:3.45s" cx="913.5" cy="136" r="2.4" fill="#FF6B5B"/>
+<circle class="bub" style="animation-delay:4.15s" cx="921.5" cy="136" r="1.4" fill="#FF6B5B"/>
+<text x="913.0" y="270" font-size="11.5" fill="#ECEFF6" font-weight="700" text-anchor="middle" >RupeeGuard</text>
+<text x="913.0" y="288" font-size="10.5" fill="#8A93A8" font-weight="500" text-anchor="middle" >first deploy</text>
+<rect x="20" y="238" width="960" height="8" rx="3" fill="#2A2238"/><rect x="20" y="238" width="960" height="2" fill="#FFB547" fill-opacity=".4"/>
+</svg>
