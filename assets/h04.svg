@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" role="img" aria-label="05:00 PM — TROPHY CASE">
+<title>05:00 PM — TROPHY CASE</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif;}
+.sw{animation:sw 5s ease-in-out infinite} @keyframes sw{0%{transform:translateX(-200px)}100%{transform:translateX(1100px)}}
+</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FFB547" stop-opacity="0"/><stop offset=".5" stop-color="#FFB547" stop-opacity=".9"/><stop offset="1" stop-color="#FFB547" stop-opacity="0"/></linearGradient></defs>
+<clipPath id="hc"><rect width="1000" height="72" rx="14"/></clipPath>
+<rect width="1000" height="72" rx="14" fill="#0A0E1A" stroke="#22304F"/>
+<circle cx="40" cy="36" r="22" fill="#10172A" stroke="#FFB547" stroke-opacity=".7" stroke-width="1.2"/>
+<line x1="40" y1="36" x2="45.5" y2="45.5" stroke="#ECEFF6" stroke-width="2.6" stroke-linecap="round"/>
+<g transform="rotate(0 40 36)"><line x1="40" y1="36.0" x2="40" y2="19.0" stroke="#FF6B5B" stroke-width="1.6" stroke-linecap="round"/><animateTransform attributeName="transform" type="rotate" from="0 40 36" to="360 40 36" dur="4s" repeatCount="indefinite"/></g>
+<circle cx="40" cy="36" r="2.5" fill="#FF6B5B"/>
+<text x="78" y="47" font-size="30" fill="#FFB547" font-weight="800" text-anchor="start" >05:00</text>
+<text x="174" y="47" font-size="13" fill="#FFB547" font-weight="800" text-anchor="start" >PM</text>
+<text x="210" y="46" font-size="24" fill="#ECEFF6" font-weight="800" text-anchor="start" class="sans" letter-spacing="1.5">TROPHY CASE</text>
+<text x="402.24" y="46" font-size="13.5" fill="#8A93A8" font-weight="500" text-anchor="start" >— wins, ranks, experience</text>
+<g clip-path="url(#hc)"><rect class="sw" x="0" y="69" width="200" height="3" fill="url(#g)"/></g>
+</svg>
